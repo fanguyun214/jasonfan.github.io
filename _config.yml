@@ -1,0 +1,8 @@
+title: Jasonfan.GitHub
+description: Jason.fan的前端世界
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
